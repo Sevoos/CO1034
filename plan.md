@@ -1,0 +1,4 @@
+- Landing page
+  - The scope
+  - Team members and roles
+  - A reference to our PR (public relations) account where even vlogs from development are shown
